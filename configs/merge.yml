@@ -1,0 +1,14 @@
+# See all configs: https://github.com/lindell/multi-gitter?tab=readme-ov-file#config-file
+base-branch: main
+platform: github
+repo:
+  - PaulRBerg/foundry-multibuild
+  - PaulRBerg/foundry-template
+  - PaulRBerg/hardhat-packager
+  - PaulRBerg/hardhat-template
+  - PaulRBerg/javascript-template
+  - PaulRBerg/multisol
+  - PaulRBerg/prb-contracts
+  - PaulRBerg/prb-math
+  - PaulRBerg/prb-proxy
+  - PaulRBerg/rust-template

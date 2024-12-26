@@ -20,3 +20,7 @@ multi-gitter run ./src/update-funding-url.sh \
 --repo "PaulRBerg/prb-math" 
 # Add more repositories here
 ```
+
+## Tips
+
+Use [direnv](https://direnv.net) with an `.envrc` file to set the environment variables needed by the scripts.

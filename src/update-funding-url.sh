@@ -25,7 +25,7 @@ replacement="custom: \"$REPLACEMENT\""
 # Path to the funding file
 funding_file=".github/FUNDING.yml"
 
-# Command to replace the funding URL in the `custom` field
+# Command for replacing text
 sd "$search_pattern" "$replacement" "$funding_file"
 
 # Print out success message
